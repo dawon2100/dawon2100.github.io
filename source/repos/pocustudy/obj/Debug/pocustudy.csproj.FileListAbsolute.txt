@@ -1,0 +1,7 @@
+C:\Users\dawon.lee\source\repos\pocustudy\bin\Debug\pocustudy.exe.config
+C:\Users\dawon.lee\source\repos\pocustudy\bin\Debug\pocustudy.exe
+C:\Users\dawon.lee\source\repos\pocustudy\bin\Debug\pocustudy.pdb
+C:\Users\dawon.lee\source\repos\pocustudy\obj\Debug\pocustudy.csproj.AssemblyReference.cache
+C:\Users\dawon.lee\source\repos\pocustudy\obj\Debug\pocustudy.csproj.CoreCompileInputs.cache
+C:\Users\dawon.lee\source\repos\pocustudy\obj\Debug\pocustudy.exe
+C:\Users\dawon.lee\source\repos\pocustudy\obj\Debug\pocustudy.pdb

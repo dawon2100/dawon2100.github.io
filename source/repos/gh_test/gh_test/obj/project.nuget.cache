@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzRYWdVSTsCnMhXftfsb0JD6D/sNvb3T+2JsHj0kbHrxscNRijnUFZX5jHCAnynSIBUH02NE+OkS4tDCwW9C4w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dawon.lee\\source\\repos\\gh_test\\gh_test\\gh_test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Grasshopper 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
+      "libraryId": "Grasshopper",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}

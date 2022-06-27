@@ -1,0 +1,5 @@
+C:\Users\dawon.lee\source\repos\MyProject1_1_v6\MyProject1_1_v6\bin\MyProject1_1_v6.dll
+C:\Users\dawon.lee\source\repos\MyProject1_1_v6\MyProject1_1_v6\bin\MyProject1_1_v6.pdb
+C:\Users\dawon.lee\source\repos\MyProject1_1_v6\MyProject1_1_v6\obj\Debug\MyProject1_1_v6.csproj.CoreCompileInputs.cache
+C:\Users\dawon.lee\source\repos\MyProject1_1_v6\MyProject1_1_v6\obj\Debug\MyProject1_1_v6.dll
+C:\Users\dawon.lee\source\repos\MyProject1_1_v6\MyProject1_1_v6\obj\Debug\MyProject1_1_v6.pdb

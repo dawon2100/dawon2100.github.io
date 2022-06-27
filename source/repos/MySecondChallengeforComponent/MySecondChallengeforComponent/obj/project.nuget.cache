@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/otzX2Ozm6qiHTTeQY584RMVoOESkHir/uV3eL6S0Wfwm90gbkeNBTJxZov+1dYZuL6Unb6U1MtARxbPq8EKdQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dawon.lee\\source\\repos\\MySecondChallengeforComponent\\MySecondChallengeforComponent\\MySecondChallengeforComponent.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Grasshopper. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Grasshopper",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}

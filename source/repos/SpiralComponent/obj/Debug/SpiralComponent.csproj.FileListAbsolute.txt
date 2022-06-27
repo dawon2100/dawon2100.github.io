@@ -1,0 +1,6 @@
+C:\Users\dawon.lee\source\repos\SpiralComponent\bin\SpiralComponent.dll
+C:\Users\dawon.lee\source\repos\SpiralComponent\bin\SpiralComponent.pdb
+C:\Users\dawon.lee\source\repos\SpiralComponent\obj\Debug\SpiralComponent.csproj.AssemblyReference.cache
+C:\Users\dawon.lee\source\repos\SpiralComponent\obj\Debug\SpiralComponent.csproj.CoreCompileInputs.cache
+C:\Users\dawon.lee\source\repos\SpiralComponent\obj\Debug\SpiralComponent.dll
+C:\Users\dawon.lee\source\repos\SpiralComponent\obj\Debug\SpiralComponent.pdb

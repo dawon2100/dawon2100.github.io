@@ -1,0 +1,9 @@
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\bin\Debug\net48\MyGrasshopperAssembly20220207test.gha
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\bin\Debug\net48\MyGrasshopperAssembly20220207test.pdb
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\obj\Debug\net48\MyGrasshopperAssembly20220207test.csproj.AssemblyReference.cache
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\obj\Debug\net48\MyGrasshopperAssembly20220207test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\obj\Debug\net48\MyGrasshopperAssembly20220207test.AssemblyInfoInputs.cache
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\obj\Debug\net48\MyGrasshopperAssembly20220207test.AssemblyInfo.cs
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\obj\Debug\net48\MyGrasshopperAssembly20220207test.csproj.CoreCompileInputs.cache
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\obj\Debug\net48\MyGrasshopperAssembly20220207test.gha
+C:\Users\dawon.lee\source\repos\MyGrasshopperAssembly20220207test\obj\Debug\net48\MyGrasshopperAssembly20220207test.pdb

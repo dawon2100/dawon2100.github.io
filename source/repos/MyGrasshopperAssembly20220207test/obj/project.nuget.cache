@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzddtxTfO0WXoyY9iJsj1s0EdWZ3fO3GR86378eR945hHMsjn9nAwSH2qe16osEaMBqqz+0AJqgsZ0RGgp3+IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dawon.lee\\source\\repos\\MyGrasshopperAssembly20220207test\\MyGrasshopperAssembly20220207test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dawon.lee\\.nuget\\packages\\grasshopper\\7.14.22010.17001\\grasshopper.7.14.22010.17001.nupkg.sha512",
+    "C:\\Users\\dawon.lee\\.nuget\\packages\\rhinocommon\\7.14.22010.17001\\rhinocommon.7.14.22010.17001.nupkg.sha512"
+  ],
+  "logs": []
+}

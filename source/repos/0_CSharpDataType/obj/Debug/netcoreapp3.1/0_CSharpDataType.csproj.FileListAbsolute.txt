@@ -1,0 +1,14 @@
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\bin\Debug\netcoreapp3.1\0_CSharpDataType.exe
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\bin\Debug\netcoreapp3.1\0_CSharpDataType.deps.json
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\bin\Debug\netcoreapp3.1\0_CSharpDataType.runtimeconfig.json
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\bin\Debug\netcoreapp3.1\0_CSharpDataType.runtimeconfig.dev.json
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\bin\Debug\netcoreapp3.1\0_CSharpDataType.dll
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\bin\Debug\netcoreapp3.1\0_CSharpDataType.pdb
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.csproj.AssemblyReference.cache
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.AssemblyInfoInputs.cache
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.AssemblyInfo.cs
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.csproj.CoreCompileInputs.cache
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.dll
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.pdb
+C:\Users\dawon.lee\source\repos\0_CSharpDataType\obj\Debug\netcoreapp3.1\0_CSharpDataType.genruntimeconfig.cache

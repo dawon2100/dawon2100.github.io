@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpvHwFqXPLTVFjKIceSebp8eBvQJ7mcwyEKbTGZIUffajss7pd6OF8o0K9U6D9gd92LuPg1IA6E3xh2s1SaWzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dawon.lee\\source\\repos\\MyGrasshopperAssembly2\\MyGrasshopperAssembly2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dawon.lee\\.nuget\\packages\\grasshopper\\7.14.22010.17001\\grasshopper.7.14.22010.17001.nupkg.sha512",
+    "C:\\Users\\dawon.lee\\.nuget\\packages\\rhinocommon\\7.14.22010.17001\\rhinocommon.7.14.22010.17001.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MyGrasshopperAssembly2 depends on Grasshopper (>= 7.13.21348.13001) but Grasshopper 7.13.21348.13001 was not found. An approximate best match of Grasshopper 7.14.22010.17001 was resolved.",
+      "libraryId": "Grasshopper",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}

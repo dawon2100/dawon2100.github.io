@@ -1,0 +1,6 @@
+C:\Users\dawon.lee\source\repos\MyProject12\bin\MyProject12.dll
+C:\Users\dawon.lee\source\repos\MyProject12\bin\MyProject12.pdb
+C:\Users\dawon.lee\source\repos\MyProject12\obj\Debug\MyProject12.csproj.AssemblyReference.cache
+C:\Users\dawon.lee\source\repos\MyProject12\obj\Debug\MyProject12.csproj.CoreCompileInputs.cache
+C:\Users\dawon.lee\source\repos\MyProject12\obj\Debug\MyProject12.dll
+C:\Users\dawon.lee\source\repos\MyProject12\obj\Debug\MyProject12.pdb
